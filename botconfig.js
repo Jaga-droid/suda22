@@ -25,6 +25,7 @@ module.exports = {
     host: "lava.link",
     port: 80, // The port that lavalink is listening to. This must be a number!
     pass: "youshallnotpass",
+    secure: false,
   },
 
   //Please go to https://developer.spotify.com/dashboard/
